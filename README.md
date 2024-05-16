@@ -37,12 +37,3 @@
     Importa el archivo bd_tienda_online.sql a MySQL
     Cambia los datos de conexión en el archivo config.php
     Ingresa desde un navegador a http://localhost/nombre_de_la_carpeta_del_proyecto
-
-### Expresiones de Gratitud 🎁
-
-    ¡Comparte este emocionante proyecto con los demás! 📢
-    Apóyanos con una cerveza 🍺 o un reconfortante café ☕
-    Contribuye a través de PayPal: iamdeveloper86@gmail.com
-    Expresa tus agradecimientos en público 🤓 ¡Te lo agradeceremos enormemente!
-
-## ¡No dejes pasar la oportunidad de SUSCRIBIRTE! 👍
